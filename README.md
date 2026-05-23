@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I sit at the intersection of <strong>finance, data, and AI</strong> — combining deep finance domain knowledge with the technical range to actually build with it.<br/>
+  I sit at the intersection of <strong>finance, data, and AI</strong> : combining deep finance domain knowledge with the technical range to actually build with it.<br/>
   Currently doing data and AI at <a href="https://clevercards.com">CleverCards</a>, a fintech startup in Dublin.
 </p>
 
