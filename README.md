@@ -2,7 +2,7 @@
 
 **Financial Data Analyst · Fintech · Dublin, Ireland**
 
-I sit at the intersection of finance, data, and AI — bringing Transfer Pricing rigour from Deloitte, financial modelling from fintech, and the technical depth to build with it. Currently at [CleverCards](https://clevercards.com), working toward a senior data/AI role in fintech or banking.
+I sit at the intersection of finance, data, and AI — combining deep finance domain knowledge from Deloitte and fintech with the technical range to actually build with it. Currently doing data and AI at [CleverCards](https://clevercards.com).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deepika--kumar--iyer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-kumar-iyer)
 
@@ -28,7 +28,7 @@ I sit at the intersection of finance, data, and AI — bringing Transfer Pricing
 
 ## 🏅 Certifications
 
-[![Snowflake Northstar](https://img.shields.io/badge/Snowflake-SnowPro%20Northstar%20Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/certifications/)
+[![Snowflake Intelligence Northstar](https://img.shields.io/badge/Snowflake-Intelligence%20Northstar-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://developerbadges.snowflake.com/b968093b-c196-42c3-bc46-5f86ae6bd931)
 
 ---
 
