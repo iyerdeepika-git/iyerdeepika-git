@@ -2,7 +2,7 @@
 
 **Financial Data Analyst · Fintech · Dublin, Ireland**
 
-I sit at the intersection of finance, data, and AI — combining deep finance domain knowledge from Deloitte and fintech with the technical range to actually build with it. Currently doing data and AI at [CleverCards](https://clevercards.com).
+I sit at the intersection of finance, data, and AI: combining deep finance domain knowledge from Deloitte and fintech with the technical range to actually build with it. Currently doing data and AI at [CleverCards](https://clevercards.com).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deepika--kumar--iyer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-kumar-iyer)
 
