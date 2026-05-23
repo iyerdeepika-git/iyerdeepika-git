@@ -1,10 +1,28 @@
-# Deepika Iyer
+<h1 align="center">Hi, I'm Deepika 👋</h1>
 
-**Financial Data Analyst · Fintech · Dublin, Ireland**
+<p align="center">
+  <strong>Financial Data Analyst · Fintech · Dublin, Ireland</strong>
+</p>
 
-I sit at the intersection of finance, data, and AI: combining deep finance domain knowledge from Deloitte and fintech with the technical range to actually build with it. Currently doing data and AI at [CleverCards](https://clevercards.com).
+<p align="center">
+  I sit at the intersection of <strong>finance, data, and AI</strong> — combining deep finance domain knowledge with the technical range to actually build with it.<br/>
+  Currently doing data and AI at <a href="https://clevercards.com">CleverCards</a>, a fintech startup in Dublin.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepika--kumar--iyer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-kumar-iyer)
+<p align="center">
+  <a href="https://linkedin.com/in/deepika-kumar-iyer">
+    <img src="https://img.shields.io/badge/LinkedIn-deepika--kumar--iyer-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I Do
+
+- Build financial models in fintech — token breakage, card breakage, unit economics
+- Automate account reconciliation and financial workflows
+- Design BI dashboards and data pipelines using Snowflake + AWS QuickSight
+- Explore applied AI in finance — RAG systems, LLMs, intelligent research tools
 
 ---
 
